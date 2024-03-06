@@ -14,7 +14,7 @@ Through this practice repository, you will gain foundational knowledge about:
 By mastering flow control, loops, and collections, you will enhance your ability to write flexible and powerful Apex code. These concepts are fundamental to building robust and efficient solutions in Salesforce.
 
 ## Setup
-[Video Overview](https://vimeo.com/839597882/46fc06d93e)
+[Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
 
 ## Getting Started Checklist
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
